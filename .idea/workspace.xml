@@ -1,66 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7d354b73-275b-49de-aaa7-91110961b016" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyAlgorithm.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/codetransfer/CodeTransfer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/countnumber/PerfectNumber.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/datetime/FormatDate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/datetime/ObtainDayTime.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/datetime/YesterdayCurrent.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/file/Counter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/file/DirectoryFindAll.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/file/FileAllList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/file/TxtCount.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/file/Untitled1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/findwork/BasketBall_circulate.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/findwork/Basketball.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/findwork/Bubbing.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/findwork/Fab_Rabbit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/findwork/QuickSort_partition.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/findwork/QuickSort_split.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/singleton/Singleton.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/socket/ClientSocket.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/socket/ServerSocket_1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/sort/InsertSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/stack/Stack.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/string/HanSplit.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/thread/Factory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/thread/T1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/thread/T2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/thread/TestThread$Dec.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/thread/TestThread$Inc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/thread/TestThread.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/MyAlgorithm/com/isaide/thread/Thread4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isaide/codetransfer/CodeTransfer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isaide/countnumber/PerfectNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isaide/datetime/FormatDate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isaide/datetime/ObtainDayTime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isaide/datetime/YesterdayCurrent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isaide/file/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isaide/file/DirectoryFindAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isaide/file/FileAllList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isaide/file/TxtCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isaide/file/Untitled1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isaide/findwork/BasketBall_circulate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isaide/findwork/Basketball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isaide/findwork/Bubbing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isaide/findwork/Fab_Rabbit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isaide/findwork/QuickSort_partition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isaide/findwork/QuickSort_split.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isaide/singleton/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isaide/socket/ClientSocket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isaide/socket/ServerSocket_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isaide/sort/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isaide/stack/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isaide/string/HanSplit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isaide/thread/TestThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/isaide/thread/Thread4.java" afterDir="false" />
+    <list default="true" id="7d354b73-275b-49de-aaa7-91110961b016" name="Default" comment="第一次提交">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +46,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="Application.ClientSocket">
     <configuration name="ClientSocket" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -244,26 +186,42 @@
       <workItem from="1577084117124" duration="24922000" />
       <workItem from="1577248326869" duration="1428000" />
       <workItem from="1577901238771" duration="1871000" />
-      <workItem from="1577903145857" duration="275000" />
+      <workItem from="1577903145857" duration="2855000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1577903513334</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577903513334</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
   </component>
   <component name="WindowStateProjectService">
     <state x="485" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1577118500928">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="485" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1360.728/1360.0.1218.720@0.0.1360.728" timestamp="1577118500928" />
+    <state x="1644" y="0" key="CommitChangelistDialog2" timestamp="1577903507189">
+      <screen x="1360" y="0" width="1280" height="680" />
+    </state>
+    <state x="1644" y="0" key="CommitChangelistDialog2/0.0.1360.728/1360.0.1280.680@1360.0.1280.680" timestamp="1577903507189" />
     <state x="460" y="107" key="FileChooserDialogImpl" timestamp="1577902732548">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="460" y="107" key="FileChooserDialogImpl/0.0.1360.728/1360.0.1280.680@0.0.1360.728" timestamp="1577902732548" />
-    <state x="1840" y="258" width="345" height="165" key="Github.CreateGistDialog" timestamp="1577901595330">
+    <state x="1840" y="258" width="345" height="165" key="Github.CreateGistDialog" timestamp="1577904441808">
       <screen x="1360" y="0" width="1280" height="680" />
     </state>
-    <state x="1840" y="258" width="345" height="165" key="Github.CreateGistDialog/0.0.1360.728/1360.0.1280.680@1360.0.1280.680" timestamp="1577901595330" />
+    <state x="1840" y="258" width="345" height="165" key="Github.CreateGistDialog/0.0.1360.728/1360.0.1280.680@1360.0.1280.680" timestamp="1577904441808" />
     <state width="1317" height="171" key="GridCell.Tab.0.bottom" timestamp="1577130044661">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -304,10 +262,16 @@
     </state>
     <state width="1317" height="105" key="GridCell.Tab.1.right/0.0.1360.728/1360.0.1218.720@0.0.1360.728" timestamp="1577130044657" />
     <state width="1175" height="209" key="GridCell.Tab.1.right/0.0.1360.728/1360.0.1218.720@1360.0.1218.720" timestamp="1577107725987" />
-    <state x="188" y="8" key="SettingsEditor" timestamp="1577903044370">
-      <screen x="0" y="0" width="1360" height="728" />
+    <state x="1537" y="0" key="SettingsEditor" timestamp="1577904536306">
+      <screen x="1360" y="0" width="1280" height="680" />
     </state>
     <state x="188" y="8" key="SettingsEditor/0.0.1360.728/1360.0.1280.680@0.0.1360.728" timestamp="1577903044370" />
+    <state x="1537" y="0" key="SettingsEditor/0.0.1360.728/1360.0.1280.680@1360.0.1280.680" timestamp="1577904536306" />
+    <state x="248" y="80" key="Vcs.Push.Dialog.v2" timestamp="1577906969196">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="248" y="80" key="Vcs.Push.Dialog.v2/0.0.1360.728/1360.0.1280.680@0.0.1360.728" timestamp="1577906969196" />
+    <state x="1593" y="75" key="Vcs.Push.Dialog.v2/0.0.1360.728/1360.0.1280.680@1360.0.1280.680" timestamp="1577904554040" />
     <state x="376" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1577901276982">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
